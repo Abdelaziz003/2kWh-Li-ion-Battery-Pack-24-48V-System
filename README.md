@@ -3,14 +3,14 @@
 ## 🚀 Overview
 
 This project presents the design and implementation of a **2kWh Li-ion battery system** built for real-world energy applications.  
-The system consists of **210 Li-ion cells**, organized into **30 groups (7 cells per group)**, with a focus on **safety, reliability, and performance optimization**.
+The system consists of **280 Li-ion cells**, organized into **40 groups (7 cells per group)**, with a focus on **safety, reliability, and performance optimization**.
 
 ---
 
 ## ⚙️ System Architecture
 
-- 🔋 Total Cells: 210 Li-ion cells  
-- 🔗 Configuration: 30 groups × 7 cells  
+- 🔋 Total Cells: 280 Li-ion cells  
+- 🔗 Configuration: 40 groups × 7 cells  
 - ⚡ Output: Designed for high-capacity energy systems  
 - 🔌 Charging System: Modified and calibrated for safe operation  
 
